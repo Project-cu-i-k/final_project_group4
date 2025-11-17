@@ -4,9 +4,9 @@ Dự án Khu đô thị Phương Đông, Xã Đông Xá, Vân Đồn, Quảng Ni
 Đường Ngô Tất Tố, Phường 22, Bình Thạnh, Hồ Chí Minh;Hồ Chí Minh;Bình Thạnh;60.00;3.50;5.00;Đông - Nam;Đông;2;6;5;Have certificate;Full;5.60
 Dự án Vườn Vua Resort & Villas, Đường 316, Xã Đồng Trung, Thanh Thủy, Phú Thọ;Phú Thọ;Thanh Thủy;369.00;15.00;12.00;Đông - Nam;Đông - Nam;2;4;4;Have certificate;Full;6.30
 Dự án The Empire - Vinhomes Ocean Park 2, Xã Long Hưng, Văn Giang, Hưng Yên;Hưng Yên;Văn Giang;78.00;6.00;13.00;Đông - Nam;Đông - Nam;4;6;6;Have certificate;Basic;8.63
-Đường Phú Mỹ, Phường Mỹ Đình 1, Nam Từ Liêm, Hà Nội.;Hà Nội.;Nam Từ Liêm;54.00;5.80;3.00;Tây - Bắc;Tây - Bắc;4;6;6;Have certificate;Full;8.80
+Đường Phú Mỹ, Phường Mỹ Đình 1, Nam Từ Liêm, Hà Nội.;Hà Nội;Nam Từ Liêm;54.00;5.80;3.00;Tây - Bắc;Tây - Bắc;4;6;6;Have certificate;Full;8.80
 Đường Nguyễn Trung Trực, Phường 5, Bình Thạnh, Hồ Chí Minh;Hồ Chí Minh;Bình Thạnh;69.10;4.00;4.50;Đông - Bắc;Đông - Bắc;3;3;4;Have certificate;Full;10.00
-Đường Quang Tiến, Phường Đại Mỗ, Nam Từ Liêm, Hà Nội.;Hà Nội.;Nam Từ Liêm;36.00;7.00;3.00;Tây - Nam;Tây - Nam;5;3;4;Have certificate;Full;5.60
+Đường Quang Tiến, Phường Đại Mỗ, Nam Từ Liêm, Hà Nội.;Hà Nội;Nam Từ Liêm;36.00;7.00;3.00;Tây - Nam;Tây - Nam;5;3;4;Have certificate;Full;5.60
 Dự án Đông Tăng Long, Đường Nguyễn Duy Trinh, Phường Trường Thạnh, Quận 9, Hồ Chí Minh;Hồ Chí Minh;Quận 9;100.00;20.00;12.00;Bắc;Bắc;3;4;5;Have certificate;Basic;6.50
 Đường Lộc Hậu, Xã Mỹ Lộc, Cần Giuộc, Long An;Long An;Cần Giuộc;151.00;4.00;6.00;Tây;Tây;2;4;3;Have certificate;Full;3.20
 Phố Yên Duyên, Phường Yên Sở, Hoàng Mai, Hà Nội;Hà Nội;Hoàng Mai;33.00;3.00;2.00;Tây - Bắc;Tây - Bắc;5;3;4;Have certificate;Full;4.48
@@ -14,7 +14,7 @@ Phố Yên Duyên, Phường Yên Sở, Hoàng Mai, Hà Nội;Hà Nội;Hoàng M
 Dự án Centa Riverside, Đường Hữu Nghị, Phường Phù Chẩn, Từ Sơn, Bắc Ninh;Bắc Ninh;Từ Sơn;180.00;9.00;40.00;Nam;Nam;3;5;4;Have certificate;Basic;9.70
 Phường Thạch Bàn, Long Biên, Hà Nội;Hà Nội;Long Biên;33.00;4.50;2.50;Nam;Nam;5;3;4;Have certificate;Full;4.15
 Đường Trương Phước Phan, Phường Bình Trị Đông, Bình Tân, Hồ Chí Minh;Hồ Chí Minh;Bình Tân;64.00;4.00;6.00;Tây;Tây;5;4;5;Have certificate;Basic;6.70
-Phố Cầu Cốc, Phường Tây Mỗ, Nam Từ Liêm, Hà Nội.;Hà Nội.;Nam Từ Liêm;53.00;4.30;22.00;Đông;Đông;5;6;5;Have certificate;Basic;6.39
+Phố Cầu Cốc, Phường Tây Mỗ, Nam Từ Liêm, Hà Nội.;Hà Nội;Nam Từ Liêm;53.00;4.30;22.00;Đông;Đông;5;6;5;Have certificate;Basic;6.39
 Đường Tô Hiến Thành, Phường 14, Quận 10, Hồ Chí Minh;Hồ Chí Minh;Quận 10;31.00;6.20;6.00;Tây - Bắc;Tây - Bắc;3;4;3;Have certificate;Full;6.80
 Đường Bùi Tá Hán, Phường  Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng;Đà Nẵng;Ngũ Hành Sơn;65.00;5.50;7.00;Tây - Nam;Tây - Nam;3;3;3;Have certificate;Full;4.70
 Đường Thạch Bàn, Phường Thạch Bàn, Long Biên, Hà Nội;Hà Nội;Long Biên;45.00;3.50;2.00;Đông - Nam;Đông - Bắc;4;4;3;Have certificate;Basic;4.95
